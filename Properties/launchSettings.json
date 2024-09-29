@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RepoKb (Index)": {
+      "commandName": "Project",
+      "commandLineArgs": "--mode index --path path/to/your/project"
+    },
+    "RepoKb (Search)": {
+      "commandName": "Project",
+      "commandLineArgs": "--mode search"
+    }
+  }
+}
